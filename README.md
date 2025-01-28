@@ -13,7 +13,7 @@ git remote add origin https://github.com/MASTERPEACE254ELITE/MASTERPEACE254ELITE
 MASTERPEACE254ELITE/MASTERPEACE254ELITE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=MASTERPEACE-+MD+BOT;PAMBE+KWA+masterpeace 🤦" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=MASTERPEACE-+MD+BOT;PAMBE+KWA+MASTERPEACE🤦" alt="Typing SVG" /></a>
   </p>
 
 
