@@ -134,7 +134,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 ## when option one failed use option two
  
 </a></p>
-- <a href="https://fredietech.onrender.com"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/✧SCAN✧CODE✧2✧-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=toyota&logoColor=white" width="240" height="38.45"/></a></p>
+- <a href="https://masterpeace.onrender.com"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/✧SCAN✧CODE✧2✧-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=toyota&logoColor=white" width="240" height="38.45"/></a></p>
 
 
 
