@@ -40,9 +40,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Repo Size -->
   <img src="https://img.shields.io/github/repo-size/Masterpeace1e/ELITE_MD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
-  <img src="https://img.shields.io/static/v1?label=Author&message=Fredi%20Ezra&color=pink&style=plastic" alt="Developer Badge">
-</p>
-
+  <img 
 
 
 
@@ -56,11 +54,7 @@ You can click the Preview link to take a look at your changes.
 <p>
 <a href="https://wa.me/254743727210"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://https://whatsapp.com/channel/0029VazeyYx35fLxhB5TfC3D"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://www.instagram.com/masterpeace.ke"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
-  <a href="https://www.facebook.com/profile.php?id=61553209932337"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://github.com/masterpeace"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="https://twitter.com/masterpacemasterpeace"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
-</p>
-
-
+  <a 
 
 
 
