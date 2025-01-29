@@ -84,7 +84,7 @@ You can click the Preview link to take a look at your changes.
 
 FORWARD COMMAND ADDED you share a message to all members in the group automatic by use bot😅😅✅✅
 
-***ᴅᴇᴘʟᴏʏ ɴᴏᴡ ɪɴ ʜᴇʀᴏᴋᴜ ɪᴛ's sᴀғᴇ 100% ɴᴏ sᴜsᴘᴇɴᴅ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴛᴇsᴛᴇᴅ ʙʏ ғʀᴇᴅɪᴇᴛᴇᴄʜ***
+***ᴅᴇᴘʟᴏʏ ɴᴏᴡ ɪɴ ʜᴇʀᴏᴋᴜ ɪᴛ's sᴀғᴇ 100% ɴᴏ sᴜsᴘᴇɴᴅ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴛᴇsᴛᴇᴅ ʙʏ mastertech***
 
 
 
