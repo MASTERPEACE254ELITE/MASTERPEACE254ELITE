@@ -92,10 +92,6 @@ FORWARD COMMAND ADDED you share a message to all members in the group automatic 
 
 ---
 
-***Support Owner***
-
-</a></p>
-- <a href="https://sociabuzz.com/masterpeacezra255" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="240" height="39px" alt="Sociabuzz"></a>
 
 
 
@@ -106,7 +102,7 @@ FORWARD COMMAND ADDED you share a message to all members in the group automatic 
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
-ғᴏʀᴋ ʟᴜᴄᴋʏ ᴍᴅ ʀᴇᴘᴏ
+ғᴏʀᴋ mastertech ᴍᴅ ʀᴇᴘᴏ
 
 
 </a></p>
